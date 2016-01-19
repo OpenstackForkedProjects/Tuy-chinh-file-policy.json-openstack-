@@ -121,7 +121,7 @@ Nghĩa là tất cả các user đều được thực thi target này
 ###Bước 7: Thực hiện chỉnh sửa với nova
 Vào file theo đường dẫn: 
 
-    /etc/nova/policy.json
+    /etc/nova/policy,json
 
 Tạo alias
 
